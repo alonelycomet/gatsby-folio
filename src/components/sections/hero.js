@@ -47,13 +47,12 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hiii, cứ gọi chúng tôi là</h1>;
+  const one = <h1>Hiii, cứ gọi chúng tớ là</h1>;
   const two = <h2 className="big-heading">Phoenix Legion.</h2>;
   const three = <h3 className="big-heading">Quân đoàn đến từ UIT.</h3>;
   const four = (
     <p>
-      I'm a software engineer based in Boston, MA specializing in building (and occasionally
-      designing) exceptional websites, applications, and everything in between.
+      Hiện tại thì chưa có gì nhưng chúng tớ đang xây dựng một thứ gì đó thú vị. Nếu có hứng thú hoặc có thắc mặc hay muốn liên hệ thì mail cho bọn tớ qua địa chỉ hi@meoki.net hoặc click buttonn phía dưới nhaaa. Thân !
     </p>
   );
   const five = (

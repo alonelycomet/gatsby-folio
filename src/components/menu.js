@@ -260,8 +260,8 @@ const Menu = () => {
               </ol>
             )}
 
-            <a href="/resume.pdf" className="resume-link">
-              Resume
+            <a href="https://meoki.net" className="resume-link">
+              Meoki
             </a>
           </nav>
         </StyledSidebar>

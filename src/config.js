@@ -8,39 +8,39 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/hi.im.meoki',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/meokiiii',
     },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
+    // {
+    //   name: 'Linkedin',
+    //   url: 'https://www.linkedin.com/in/meokisama',
+    // },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://codepen.io/meokisama',
     },
   ],
 
   navLinks: [
-    {
-      name: 'About',
-      url: '/#about',
-    },
-    {
-      name: 'Experience',
-      url: '/#jobs',
-    },
-    {
-      name: 'Work',
-      url: '/#projects',
-    },
-    {
-      name: 'Contact',
-      url: '/#contact',
-    },
+    // {
+    //   name: 'About',
+    //   url: '/#about',
+    // },
+    // {
+    //   name: 'Experience',
+    //   url: '/#jobs',
+    // },
+    // {
+    //   name: 'Work',
+    //   url: '/#projects',
+    // },
+    // {
+    //   name: 'Contact',
+    //   url: '/#contact',
+    // },
   ],
 
   colors: {
