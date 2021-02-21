@@ -8,7 +8,7 @@ const StyledHeroSection = styled.section`
   ${({ theme }) => theme.mixins.flexCenter};
   flex-direction: column;
   align-items: flex-start;
-  min-height: 100vh;
+  min-height: 90vh;
 
   h1 {
     margin: 0 0 30px 4px;
@@ -26,6 +26,10 @@ const StyledHeroSection = styled.section`
     margin-top: 10px;
     color: var(--slate);
     line-height: 0.9;
+  }
+
+  strong {
+    color: var(--green);
   }
 
   p {
@@ -52,7 +56,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">Quân đoàn đến từ UIT.</h3>;
   const four = (
     <p>
-      Hiện tại thì chưa có gì nhưng chúng tớ đang xây dựng một thứ gì đó thú vị. Nếu có hứng thú hoặc có thắc mặc hay muốn liên hệ thì mail cho bọn tớ qua địa chỉ hi@meoki.net hoặc click buttonn phía dưới nhaaa. Thân !
+      Hiện tại thì chưa có gì nhưng chúng tớ đang xây dựng một thứ gì đó thú vị. Nếu có hứng thú hoặc có thắc mặc hay muốn liên hệ thì mail cho bọn tớ qua địa chỉ <strong>hi@meoki.net</strong> hoặc click buttonn phía dưới nhaaa. Thân !
     </p>
   );
   const five = (
