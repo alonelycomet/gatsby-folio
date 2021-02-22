@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://meoki.xyz/sitemap.xml
-Host: https://meoki.xyz
+Sitemap: https://legion.meoki.net/sitemap.xml
+Host: https://legion.meoki.net
