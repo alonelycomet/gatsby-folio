@@ -5,7 +5,7 @@ module.exports = {
     title: 'Phoenix Legion',
     description:
       'Quân đoàn Phượng hoàng đến từ UIT.',
-    siteUrl: 'https://meoki.xyz', // No trailing slash allowed!
+    siteUrl: 'https://legion.meoki.net', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@meokiiii',
   },
